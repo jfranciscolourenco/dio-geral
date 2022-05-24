@@ -1,3 +1,4 @@
 Arquivo para descrição dos exercícios inseridos.
 
 Inserido primeiro exercício de métodos do curso de Java da DIO (24/05).
+Inserido segundo exercício de métodos do curso de Java da DIO (24/05).
